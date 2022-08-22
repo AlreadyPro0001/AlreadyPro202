@@ -1,0 +1,1 @@
+game.Players.LocalPlayer:Kick("you failed to load screen kicked by error 207")
